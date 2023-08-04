@@ -1,0 +1,7 @@
+.NavLink.active {
+  font-weight: bold;
+  background-color: purple.500;
+  border-radius: md;
+  padding: 8px;
+  color: white;
+}
